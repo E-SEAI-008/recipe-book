@@ -12,13 +12,6 @@
   type: 
     name: Project
     color: green
-  ft-id: 022.01.000
-  pt-id: NA
-  objectives: No objectives
-  slides: null
-  instructorNotes:
-    plainText: null
-    links: null
 ---
 
 You’ve gone deep into React and its ecosystem, and now it’s time to cook up something delicious: a full-featured Recipe Creator. Over the next two weeks, you’ll build a website where you can search for recipes, save favorites, and jot down notes, choosing between React Router or NextJS. Let’s get chopping!
